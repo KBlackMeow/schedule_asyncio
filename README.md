@@ -1,2 +1,2 @@
 # schedule_asyncio
-this is a schedule package for asyncio.
+This is a schedule package for asyncio.
